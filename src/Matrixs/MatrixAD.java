@@ -5,7 +5,7 @@ public class MatrixAD {
 	public static void main(String[] args) {
 		// TODO Auto-generated method stub
 		
-		int[][]x = {{10,10},{20,20}};
+		int[][]x = {{10,30},{20,40}};
 		int[][]y = {{1,2},{3,4}};
 		int[][]z = {{2,2},{2,2}};
 		System.out.println("x elements");
